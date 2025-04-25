@@ -1,4 +1,4 @@
-# minicurso-python-secompp
+# Curso-python-secompp
 
 ## Repositório do Curso de Python - Semana da Computação UNESP
 
