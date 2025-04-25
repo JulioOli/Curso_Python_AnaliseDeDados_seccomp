@@ -73,7 +73,7 @@ Realizamos também projetos práticos de análise de dados, proporcionando aos p
 
 Este repositório contém o material didático, códigos de exemplo e projetos práticos utilizados durante o curso. Sinta-se à vontade para explorar, clonar e utilizar o conteúdo conforme necessário para aprimorar suas habilidades em Python e análise de dados.
 
-Esperamos que este recurso seja útil para você em sua jornada de aprendizado em Python.
+Espero que este recurso seja útil para você em sua jornada de aprendizado em Python.
 
 Divirta-se codificando!
 
